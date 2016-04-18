@@ -44,7 +44,8 @@ If you have any issues, questions, ideas, or concerns contact us through GitHub.
 • phpMyAdmin<br>
 • PHP<br>
 • GIT<br>
-
+• JavaScript <br>
+• HTML<br>
 ## License
 
 Copyright (c) 2016  |  Yvonna Contreras & Afton Downey  |  Epicodus  |  Portland, OR
